@@ -26,17 +26,13 @@ In today's digital age, having an intuitive and visually appealing online presen
 
 **Interfaces:**
 
-![image](https://github.com/user-attachments/assets/884a409c-cc42-44c2-8659-6f2c83af3188)
-
-![image](https://github.com/user-attachments/assets/9cc2784f-552e-4ed6-b146-b5ea50badc66)
-
-![image](https://github.com/user-attachments/assets/a36fb355-8d69-4fcc-89bd-df10e797369b)
-
-![image](https://github.com/user-attachments/assets/1a3c648a-0e38-4a69-a98f-0aceaffba7d3)
-
-![image](https://github.com/user-attachments/assets/2c4d1bc4-13dd-47cd-a5d5-e6d4dc4f561b)
-
-![image](https://github.com/user-attachments/assets/84558a01-218e-47b8-a5d8-83aaf864190f)
+![image](https://github.com/user-attachments/assets/913555a3-db08-4804-8f2f-6289a63d5c78)
+![image](https://github.com/user-attachments/assets/e43444c4-228b-4574-b59a-6642237137b8)
+![image](https://github.com/user-attachments/assets/132697cf-f724-4c06-abff-1aea9fa4b579)
+![image](https://github.com/user-attachments/assets/2d49404c-9059-4be3-83c4-9be1cc9a3f52)
+![image](https://github.com/user-attachments/assets/71bde995-28e7-41c7-8a39-04fed1c06978)
+![image](https://github.com/user-attachments/assets/c9d4c199-d4b1-4aa0-9814-b7204f3144f4)
+![image](https://github.com/user-attachments/assets/42da39e6-d1e0-4e4f-8c12-0f7518de63c7)
 
 **Conclusion**
 
